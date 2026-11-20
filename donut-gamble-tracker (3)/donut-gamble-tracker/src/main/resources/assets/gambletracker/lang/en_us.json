@@ -1,0 +1,7 @@
+{
+  "key.category.gambletracker.main": "Gamble Tracker",
+  "key.gambletracker.toggle": "Show/Hide HUD",
+  "key.gambletracker.mode": "Cycle HUD Mode (full/compact/minimal)",
+  "key.gambletracker.session": "Reset Session Stats",
+  "key.gambletracker.reset": "Reset ALL Stats"
+}

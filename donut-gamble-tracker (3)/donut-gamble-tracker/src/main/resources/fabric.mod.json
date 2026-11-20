@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "gambletracker",
+  "version": "${version}",
+  "name": "Donut Gamble Tracker",
+  "description": "Client-side HUD that tracks gambling profit/loss from chat messages.",
+  "environment": "client",
+  "entrypoints": { "client": ["com.example.gambletracker.GambleTrackerClient"] },
+  "depends": { "fabricloader": ">=0.18.0", "minecraft": "~1.21.11", "java": ">=21", "fabric-api": "*" }
+}
